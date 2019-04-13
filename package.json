@@ -1,0 +1,15 @@
+{
+  "name": "vulnerable_node",
+  "version": "1.0.0",
+  "description": "Example of GitHub vulnerability detection",
+  "main": "app.js",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "send": "0.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
